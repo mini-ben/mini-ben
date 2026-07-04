@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)]()
 
-<h1 align="left" style="color: #fff">enndy</h1>
+<h1 align="left" style="color: #fff">ben</h1>
 <h3 align="left" style="color: #fff">🌀 I have more than 5 years of experience in development</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andriy-khomitskyi/)](https://www.linkedin.com/in/andriy-khomitskyi/)
@@ -31,5 +31,5 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-  <a href="https://github.com/enndylove"><img alt="enndylove Github Stats" src="https://github-readme-stats.vercel.app/api?username=enndylove&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="167px"/></a>
-  <a href="https://github.com/enndylove"><img alt="enndylove" src="https://github-readme-streak-stats.herokuapp.com/?user=enndylove&theme=midnight-purple&hide_border=true" height="167px"/></a> 
+  <a href="https://github.com/mini-ben"><img alt="mini-ben Github Stats" src="https://github-readme-stats.vercel.app/api?username=mini-ben&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="167px"/></a>
+  <a href="https://github.com/mini-ben"><img alt="mini-ben" src="https://github-readme-streak-stats.herokuapp.com/?user=mini-ben&theme=midnight-purple&hide_border=true" height="167px"/></a> 
