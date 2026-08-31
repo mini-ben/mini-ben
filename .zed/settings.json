@@ -1,0 +1,69 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "agent_ui_font_family": "Adwaita Sans",
+  "terminal": {
+    "font_weight": 500.0,
+    "font_size": 14.0,
+    "font_family": "JetBrains Mono",
+  },
+  "prettier": {
+    "allowed": true,
+  },
+  "format_on_save": "on",
+  "formatter": "prettier",
+  "mouse_wheel_zoom": false,
+  "cli_default_open_behavior": "existing_window",
+  "agent_servers": {
+    "gemini": {
+      "type": "registry",
+    },
+  },
+  "project_panel": {
+    "dock": "left",
+  },
+  "outline_panel": {
+    "dock": "right",
+  },
+  "collaboration_panel": {
+    "dock": "right",
+  },
+  "agent": {
+    "inline_assistant_model": {
+      "provider": "google",
+      "model": "gemini-3.5-flash",
+      "enable_thinking": false,
+    },
+    "default_model": {
+      "provider": "google",
+      "model": "gemini-2.5-flash",
+      "enable_thinking": true,
+    },
+    "dock": "left",
+    "favorite_models": [],
+    "model_parameters": [],
+  },
+  "git_panel": {
+    "dock": "right",
+  },
+  "agent_buffer_font_size": 14.0,
+  "agent_ui_font_size": 14.0,
+  "ui_font_weight": 400.0,
+  "buffer_line_height": {
+    "custom": 1.350000023841858,
+  },
+  "icon_theme": "Material Icon Theme",
+  "ui_font_size": 14.0,
+  "ui_font_family": "JetBrains Mono",
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_weight": 400.0,
+  "buffer_font_size": 14.0,
+  "tab_size": 2,
+  "theme": "Jetbrains Darcula Theme By Bronya0",
+}
